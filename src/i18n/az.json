@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Fərhad Eyvazov — Full-Stack Proqram Mühəndisi",
+    "description": "React, Java və Node.js ilə müasir veb tətbiqlər quran full-stack proqram mühəndisi."
+  },
+  "nav": {
+    "home": "Əsas",
+    "stack": "Stack",
+    "projects": "Layihələr",
+    "about": "Haqqımda",
+    "experience": "Təcrübə",
+    "education": "Təhsil",
+    "contact": "Əlaqə"
+  },
+  "ui": {
+    "downloadCV": "CV Yüklə",
+    "linkedin": "LinkedIn",
+    "getInTouch": "Əlaqə Saxla",
+    "themeToggleToLight": "İşıqlı rejimə keç",
+    "themeToggleToDark": "Tünd rejimə keç",
+    "languageSwitcher": "Dil",
+    "menu": "Menyu",
+    "closeMenu": "Menyunu bağla"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Proqram Mühəndisi",
+    "headline": "<accent>React, Java və Node.js</accent> ilə müasir veb tətbiqlər qururam.",
+    "subtext": "Fikirləri miqyaslana bilən, istifadəçi dostu veb tətbiqlərə çevirməkdən zövq alan full-stack developerəm. Təmiz koda, müasir texnologiyalara və real dəyər yaratmağa fokuslanıram.",
+    "viewProjects": "Layihələrimə Bax"
+  },
+  "about": {
+    "eyebrow": "Haqqımda",
+    "heading": "Kim Olduğum",
+    "paragraph1": "Müasir veb tətbiqlər qurmağa həvəsli full-stack proqram mühəndisiyəm. Mürəkkəb problemləri həll etməkdən, güclü komandalarla işləməkdən və daim yeni texnologiyalar öyrənməkdən zövq alıram.",
+    "paragraph2": "Həm frontend, həm də backend development-də təcrübəm var, müxtəlif verilənlər bazaları, API-lər və bulud alətləri ilə rahat işləyirəm.",
+    "badgeProblemSolver": "Problem Həll edən",
+    "badgeTeamPlayer": "Komanda Oyunçusu",
+    "badgeFastLearner": "Sürətli Öyrənən",
+    "imageAlt": "Kodun göründüyü monitor və üzərində \"Better Code Better Tomorrow\" yazılı fincanı olan iş masası"
+  },
+  "techStack": {
+    "eyebrow": "Texnologiyalar",
+    "heading": "Texnologiya Stack-ım",
+    "alwaysLearning": "Daim öyrənirəm"
+  },
+  "projects": {
+    "eyebrow": "Seçilmiş Layihələr",
+    "heading": "Layihələrim",
+    "viewAllProjects": "Bütün Layihələrə Bax",
+    "allProjectsHeading": "Bütün Layihələr",
+    "tabFrontend": "Frontend",
+    "tabBackend": "Backend"
+  },
+  "projectDetail": {
+    "backToProjects": "Layihələrə Qayıt",
+    "overview": "Layihəyə Baxış",
+    "keyFeatures": "Əsas Xüsusiyyətlər",
+    "visitLiveSite": "Canlı Sayta Bax",
+    "viewOnGithub": "GitHub-da Bax"
+  },
+  "experience": {
+    "eyebrow": "İş Təcrübəsi",
+    "heading": "Peşəkar Təcrübə"
+  },
+  "education": {
+    "eyebrow": "Təhsil və Sertifikatlar",
+    "educationHeading": "Təhsil",
+    "certificationsHeading": "Sertifikatlar"
+  },
+  "contact": {
+    "eyebrow": "Əlaqə",
+    "heading": "Əlaqə Saxlayaq",
+    "description": "İmkanlar, əməkdaşlıq və ya sadəcə salamlaşmaq üçün mənə yaza bilərsən.",
+    "openToWork": "Freelance işə, tam ştat imkanlarına və maraqlı layihələrə açığam.",
+    "form": {
+      "nameLabel": "Ad",
+      "namePlaceholder": "Adınız",
+      "emailLabel": "Email",
+      "emailPlaceholder": "siz@example.com",
+      "messageLabel": "Mesaj",
+      "messagePlaceholder": "Layihəniz və ya təklifiniz haqqında mənə yazın...",
+      "submit": "Mesaj Göndər",
+      "sending": "Göndərilir...",
+      "success": "Təşəkkürlər! Mesajınız göndərildi — tezliklə sizinlə əlaqə saxlayacam.",
+      "error": "Xəta baş verdi. Zəhmət olmasa yenidən cəhd edin və ya birbaşa mənə yazın."
+    }
+  },
+  "workTogether": {
+    "eyebrow": "Birlikdə İşləyək",
+    "heading": "Ağlınızda bir layihə var?",
+    "description": "Yeni imkanları, əməkdaşlığı və ya sadəcə söhbəti müzakirə etməyə həmişə açığam."
+  },
+  "notFound": {
+    "title": "Layihə tapılmadı",
+    "message": "Axtardığınız layihə mövcud deyil və ya köçürülüb.",
+    "backHome": "Əsas Səhifəyə Qayıt"
+  }
+}

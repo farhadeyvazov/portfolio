@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Farhad Eyvazov — Full-Stack Tarkvarainsener",
+    "description": "Full-stack tarkvarainsener, kes ehitab kaasaegseid veebirakendusi React, Java ja Node.js abil."
+  },
+  "nav": {
+    "home": "Avaleht",
+    "stack": "Stack",
+    "projects": "Projektid",
+    "about": "Minust",
+    "experience": "Kogemus",
+    "education": "Haridus",
+    "contact": "Kontakt"
+  },
+  "ui": {
+    "downloadCV": "Laadi CV alla",
+    "linkedin": "LinkedIn",
+    "getInTouch": "Võta Ühendust",
+    "themeToggleToLight": "Lülitu heledale režiimile",
+    "themeToggleToDark": "Lülitu tumedale režiimile",
+    "languageSwitcher": "Keel",
+    "menu": "Menüü",
+    "closeMenu": "Sulge menüü"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Tarkvarainsener",
+    "headline": "Ehitan kaasaegseid veebirakendusi kasutades <accent>React, Java ja Node.js</accent>.",
+    "subtext": "Olen full-stack arendaja, kellele meeldib muuta ideed skaleeritavateks, kasutajasõbralikeks veebirakendusteks. Keskendun puhtale koodile, kaasaegsetele tehnoloogiatele ja tegeliku väärtuse loomisele.",
+    "viewProjects": "Vaata Minu Projekte"
+  },
+  "about": {
+    "eyebrow": "Minust",
+    "heading": "Kes Ma Olen",
+    "paragraph1": "Olen full-stack tarkvarainsener, kirglik kaasaegsete veebirakenduste ehitamise vastu. Naudin keeruliste probleemide lahendamist, suurepäraste meeskondadega töötamist ja uute tehnoloogiate pidevat õppimist.",
+    "paragraph2": "Mul on kogemus nii frontend- kui backend-arenduses ning tunnen end mugavalt erinevate andmebaaside, API-de ja pilveriistadega töötades.",
+    "badgeProblemSolver": "Probleemide Lahendaja",
+    "badgeTeamPlayer": "Meeskonnamängija",
+    "badgeFastLearner": "Kiire Õppija",
+    "imageAlt": "Töölaud monitoriga, millel on näha koodi, ja kruusiga, millel on kiri \"Better Code Better Tomorrow\""
+  },
+  "techStack": {
+    "eyebrow": "Tehnoloogiad",
+    "heading": "Minu Tehnoloogiapakett",
+    "alwaysLearning": "Alati õppimas"
+  },
+  "projects": {
+    "eyebrow": "Esiletõstetud Projektid",
+    "heading": "Minu Projektid",
+    "viewAllProjects": "Vaata Kõiki Projekte",
+    "allProjectsHeading": "Kõik Projektid",
+    "tabFrontend": "Frontend",
+    "tabBackend": "Backend"
+  },
+  "projectDetail": {
+    "backToProjects": "Tagasi Projektide Juurde",
+    "overview": "Projekti Ülevaade",
+    "keyFeatures": "Peamised Omadused",
+    "visitLiveSite": "Vaata Töötavat Saiti",
+    "viewOnGithub": "Vaata GitHubis"
+  },
+  "experience": {
+    "eyebrow": "Töökogemus",
+    "heading": "Erialane Kogemus"
+  },
+  "education": {
+    "eyebrow": "Haridus ja Sertifikaadid",
+    "educationHeading": "Haridus",
+    "certificationsHeading": "Sertifikaadid"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "heading": "Võtame Ühendust",
+    "description": "Võid julgelt kirjutada võimaluste, koostöö või lihtsalt tervituse jaoks.",
+    "openToWork": "Olen avatud vabakutselisele tööle, täiskohaga võimalustele ja huvitavatele projektidele.",
+    "form": {
+      "nameLabel": "Nimi",
+      "namePlaceholder": "Sinu nimi",
+      "emailLabel": "Email",
+      "emailPlaceholder": "sina@naide.com",
+      "messageLabel": "Sõnum",
+      "messagePlaceholder": "Räägi mulle oma projektist või võimalusest...",
+      "submit": "Saada Sõnum",
+      "sending": "Saadan...",
+      "success": "Aitäh! Sinu sõnum on saadetud — vastan peagi.",
+      "error": "Midagi läks valesti. Palun proovi uuesti või kirjuta mulle otse."
+    }
+  },
+  "workTogether": {
+    "eyebrow": "Teeme Koostööd",
+    "heading": "Kas sul on projekt mõttes?",
+    "description": "Olen alati avatud uutele võimalustele, koostööle või lihtsalt lühikesele vestlusele."
+  },
+  "notFound": {
+    "title": "Projekti ei leitud",
+    "message": "Otsitavat projekti ei eksisteeri või see on teisaldatud.",
+    "backHome": "Tagasi Avalehele"
+  }
+}

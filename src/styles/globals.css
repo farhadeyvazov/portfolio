@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+@import './tokens.css';
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--text-primary);
+}

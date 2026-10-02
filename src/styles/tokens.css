@@ -1,0 +1,53 @@
+/* Design tokens — Farhad Eyvazov Portfolio
+ * Source: Version 1 Portfolio Implementation Spec, Section 2 (Color System)
+ * Dark is the default theme. Light mode values below are a derived
+ * equivalent (not specified in the source PDF) — flagged for review.
+ */
+
+:root {
+  /* Dark theme (default) */
+  --bg: #080d13;
+  --surface: #0b1118;
+  --surface-2: #0e151d;
+  --border: #18232e;
+  --text-primary: #f5f7fa;
+  --text-secondary: #9aa6b2;
+  --accent: #2f80ed;
+  --accent-highlight: #4ea1ff;
+  /* Darker shades for solid-fill UI (buttons, active tabs) with white text —
+     #2F80ED only has a 3.87:1 contrast ratio against white (fails WCAG AA's
+     4.5:1 for normal text); these pass with margin. Text/link/border/icon
+     uses keep --accent as-is, since that already passes against the dark
+     background (5.04:1). */
+  --accent-fill: #136ade;
+  --accent-fill-hover: #115dc4;
+}
+
+:root[data-theme='light'] {
+  /* Light theme — derived equivalent, pending confirmation */
+  --bg: #ffffff;
+  --surface: #f5f7fa;
+  --surface-2: #edf1f5;
+  --border: #e1e7ed;
+  --text-primary: #0b1118;
+  --text-secondary: #57636e;
+  /* Darker than dark-theme's #2F80ED — that value is only 3.6-3.9:1 against
+     light backgrounds (fails WCAG AA's 4.5:1 for text); this passes with
+     margin against both white and the light surface color. */
+  --accent: #136ade;
+  --accent-highlight: #1c64d1;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-accent: var(--accent);
+  --color-accent-highlight: var(--accent-highlight);
+  --color-accent-fill: var(--accent-fill);
+  --color-accent-fill-hover: var(--accent-fill-hover);
+  --font-sans: var(--font-inter);
+}

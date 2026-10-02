@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Farhad Eyvazov — Full-Stack Yazılım Mühendisi",
+    "description": "React, Java ve Node.js ile modern web uygulamaları geliştiren full-stack yazılım mühendisi."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "stack": "Stack",
+    "projects": "Projeler",
+    "about": "Hakkımda",
+    "experience": "Deneyim",
+    "education": "Eğitim",
+    "contact": "İletişim"
+  },
+  "ui": {
+    "downloadCV": "CV İndir",
+    "linkedin": "LinkedIn",
+    "getInTouch": "İletişime Geç",
+    "themeToggleToLight": "Açık moda geç",
+    "themeToggleToDark": "Koyu moda geç",
+    "languageSwitcher": "Dil",
+    "menu": "Menü",
+    "closeMenu": "Menüyü kapat"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Yazılım Mühendisi",
+    "headline": "<accent>React, Java ve Node.js</accent> ile modern web uygulamaları geliştiriyorum.",
+    "subtext": "Fikirleri ölçeklenebilir, kullanıcı dostu web uygulamalarına dönüştürmekten keyif alan full-stack developerim. Temiz koda, modern teknolojilere ve gerçek değer yaratmaya odaklanıyorum.",
+    "viewProjects": "Projelerimi Gör"
+  },
+  "about": {
+    "eyebrow": "Hakkımda",
+    "heading": "Kimim",
+    "paragraph1": "Modern web uygulamaları geliştirmeye tutkulu bir full-stack yazılım mühendisiyim. Karmaşık problemleri çözmekten, harika ekiplerle çalışmaktan ve sürekli yeni teknolojiler öğrenmekten keyif alıyorum.",
+    "paragraph2": "Hem frontend hem backend geliştirmede deneyimim var, çeşitli veritabanları, API'ler ve bulut araçlarıyla rahatça çalışıyorum.",
+    "badgeProblemSolver": "Problem Çözücü",
+    "badgeTeamPlayer": "Takım Oyuncusu",
+    "badgeFastLearner": "Hızlı Öğrenen",
+    "imageAlt": "Kodun göründüğü bir monitör ve üzerinde \"Better Code Better Tomorrow\" yazan kupanın bulunduğu çalışma masası"
+  },
+  "techStack": {
+    "eyebrow": "Teknolojiler",
+    "heading": "Teknoloji Stack'im",
+    "alwaysLearning": "Her zaman öğreniyorum"
+  },
+  "projects": {
+    "eyebrow": "Öne Çıkan Projeler",
+    "heading": "Projelerim",
+    "viewAllProjects": "Tüm Projeleri Gör",
+    "allProjectsHeading": "Tüm Projeler",
+    "tabFrontend": "Frontend",
+    "tabBackend": "Backend"
+  },
+  "projectDetail": {
+    "backToProjects": "Projelere Dön",
+    "overview": "Proje Genel Bakış",
+    "keyFeatures": "Öne Çıkan Özellikler",
+    "visitLiveSite": "Canlı Siteyi Gör",
+    "viewOnGithub": "GitHub'da Gör"
+  },
+  "experience": {
+    "eyebrow": "İş Deneyimi",
+    "heading": "Profesyonel Deneyim"
+  },
+  "education": {
+    "eyebrow": "Eğitim ve Sertifikalar",
+    "educationHeading": "Eğitim",
+    "certificationsHeading": "Sertifikalar"
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "heading": "Bağlantı Kuralım",
+    "description": "Fırsatlar, iş birlikleri veya sadece merhaba demek için yazabilirsin.",
+    "openToWork": "Freelance işlere, tam zamanlı fırsatlara ve ilginç projelere açığım.",
+    "form": {
+      "nameLabel": "Ad",
+      "namePlaceholder": "Adınız",
+      "emailLabel": "Email",
+      "emailPlaceholder": "siz@ornek.com",
+      "messageLabel": "Mesaj",
+      "messagePlaceholder": "Projeniz veya fırsatınız hakkında bana yazın...",
+      "submit": "Mesaj Gönder",
+      "sending": "Gönderiliyor...",
+      "success": "Teşekkürler! Mesajınız gönderildi — yakında size dönüş yapacağım.",
+      "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin veya doğrudan bana yazın."
+    }
+  },
+  "workTogether": {
+    "eyebrow": "Birlikte Çalışalım",
+    "heading": "Aklında bir proje mi var?",
+    "description": "Yeni fırsatları, iş birliklerini veya sadece kısa bir sohbeti konuşmaya her zaman açığım."
+  },
+  "notFound": {
+    "title": "Proje bulunamadı",
+    "message": "Aradığınız proje mevcut değil veya taşınmış olabilir.",
+    "backHome": "Ana Sayfaya Dön"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Фархад Эйвазов — Full-Stack Инженер-Программист",
+    "description": "Full-stack инженер-программист, создающий современные веб-приложения на React, Java и Node.js."
+  },
+  "nav": {
+    "home": "Главная",
+    "stack": "Стек",
+    "projects": "Проекты",
+    "about": "Обо мне",
+    "experience": "Опыт",
+    "education": "Образование",
+    "contact": "Контакты"
+  },
+  "ui": {
+    "downloadCV": "Скачать CV",
+    "linkedin": "LinkedIn",
+    "getInTouch": "Связаться",
+    "themeToggleToLight": "Переключить на светлый режим",
+    "themeToggleToDark": "Переключить на тёмный режим",
+    "languageSwitcher": "Язык",
+    "menu": "Меню",
+    "closeMenu": "Закрыть меню"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Инженер-Программист",
+    "headline": "Я создаю современные веб-приложения на <accent>React, Java и Node.js</accent>.",
+    "subtext": "Я full-stack разработчик, которому нравится превращать идеи в масштабируемые, удобные веб-приложения. Фокусируюсь на чистом коде, современных технологиях и создании реальной ценности.",
+    "viewProjects": "Смотреть Мои Проекты"
+  },
+  "about": {
+    "eyebrow": "Обо Мне",
+    "heading": "Кто Я",
+    "paragraph1": "Я full-stack инженер-программист, увлечённый созданием современных веб-приложений. Мне нравится решать сложные задачи, работать с отличными командами и постоянно изучать новые технологии.",
+    "paragraph2": "Имею опыт как во frontend, так и в backend разработке, уверенно работаю с различными базами данных, API и облачными инструментами.",
+    "badgeProblemSolver": "Решаю Проблемы",
+    "badgeTeamPlayer": "Командный Игрок",
+    "badgeFastLearner": "Быстро Учусь",
+    "imageAlt": "Рабочий стол с монитором, на котором виден код, и кружкой с надписью \"Better Code Better Tomorrow\""
+  },
+  "techStack": {
+    "eyebrow": "Технологии",
+    "heading": "Мой Технологический Стек",
+    "alwaysLearning": "Всегда учусь"
+  },
+  "projects": {
+    "eyebrow": "Избранные Проекты",
+    "heading": "Мои Проекты",
+    "viewAllProjects": "Смотреть Все Проекты",
+    "allProjectsHeading": "Все Проекты",
+    "tabFrontend": "Frontend",
+    "tabBackend": "Backend"
+  },
+  "projectDetail": {
+    "backToProjects": "Вернуться к Проектам",
+    "overview": "Обзор Проекта",
+    "keyFeatures": "Ключевые Функции",
+    "visitLiveSite": "Смотреть Вживую",
+    "viewOnGithub": "Смотреть на GitHub"
+  },
+  "experience": {
+    "eyebrow": "Опыт Работы",
+    "heading": "Профессиональный Опыт"
+  },
+  "education": {
+    "eyebrow": "Образование и Сертификаты",
+    "educationHeading": "Образование",
+    "certificationsHeading": "Сертификаты"
+  },
+  "contact": {
+    "eyebrow": "Контакты",
+    "heading": "Давайте Свяжемся",
+    "description": "Пишите насчёт возможностей, сотрудничества или просто чтобы поздороваться.",
+    "openToWork": "Открыт к фриланс-работе, полной занятости и интересным проектам.",
+    "form": {
+      "nameLabel": "Имя",
+      "namePlaceholder": "Ваше имя",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@example.com",
+      "messageLabel": "Сообщение",
+      "messagePlaceholder": "Расскажите о своём проекте или предложении...",
+      "submit": "Отправить Сообщение",
+      "sending": "Отправка...",
+      "success": "Спасибо! Ваше сообщение отправлено — скоро отвечу.",
+      "error": "Что-то пошло не так. Попробуйте снова или напишите мне напрямую."
+    }
+  },
+  "workTogether": {
+    "eyebrow": "Давайте Работать Вместе",
+    "heading": "Есть идея проекта?",
+    "description": "Всегда открыт к новым возможностям, сотрудничеству или просто короткому разговору."
+  },
+  "notFound": {
+    "title": "Проект не найден",
+    "message": "Проект, который вы ищете, не существует или был перемещён.",
+    "backHome": "Вернуться на Главную"
+  }
+}

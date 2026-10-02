@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Farhad Eyvazov — Full-Stack Software Engineer",
+    "description": "Full-stack software engineer building modern web applications with React, Java and Node.js."
+  },
+  "nav": {
+    "home": "Home",
+    "stack": "Stack",
+    "projects": "Projects",
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "ui": {
+    "downloadCV": "Download CV",
+    "linkedin": "LinkedIn",
+    "getInTouch": "Get in Touch",
+    "themeToggleToLight": "Switch to light mode",
+    "themeToggleToDark": "Switch to dark mode",
+    "languageSwitcher": "Language",
+    "menu": "Menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Software Engineer",
+    "headline": "I build modern web applications with <accent>React, Java and Node.js</accent>.",
+    "subtext": "I'm a full-stack developer who enjoys turning ideas into scalable, user-friendly web applications. I focus on clean code, modern technologies and creating real value.",
+    "viewProjects": "View My Projects"
+  },
+  "about": {
+    "eyebrow": "About Me",
+    "heading": "Who I Am",
+    "paragraph1": "I'm a full-stack software engineer with a passion for building modern web applications. I enjoy solving complex problems, working with great teams, and continuously learning new technologies.",
+    "paragraph2": "I have experience in both frontend and backend development, and I'm comfortable working with various databases, APIs and cloud tools.",
+    "badgeProblemSolver": "Problem Solver",
+    "badgeTeamPlayer": "Team Player",
+    "badgeFastLearner": "Fast Learner",
+    "imageAlt": "Desk setup with a monitor showing code and a mug reading \"Better Code Better Tomorrow\""
+  },
+  "techStack": {
+    "eyebrow": "Technologies",
+    "heading": "My Tech Stack",
+    "alwaysLearning": "Always learning"
+  },
+  "projects": {
+    "eyebrow": "Featured Projects",
+    "heading": "My Projects",
+    "viewAllProjects": "View All Projects",
+    "allProjectsHeading": "All Projects",
+    "tabFrontend": "Frontend",
+    "tabBackend": "Backend"
+  },
+  "projectDetail": {
+    "backToProjects": "Back to Projects",
+    "overview": "Project Overview",
+    "keyFeatures": "Key Features",
+    "visitLiveSite": "Visit Live Site",
+    "viewOnGithub": "View on GitHub"
+  },
+  "experience": {
+    "eyebrow": "Work Experience",
+    "heading": "Professional Experience"
+  },
+  "education": {
+    "eyebrow": "Education & Certifications",
+    "educationHeading": "Education",
+    "certificationsHeading": "Certifications"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "heading": "Let's Connect",
+    "description": "Feel free to reach out for opportunities, collaborations or just a friendly hello.",
+    "openToWork": "I'm open to freelance work, full-time opportunities and interesting projects.",
+    "form": {
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@example.com",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell me about your project or opportunity...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thanks! Your message has been sent — I'll get back to you soon.",
+      "error": "Something went wrong. Please try again or email me directly."
+    }
+  },
+  "workTogether": {
+    "eyebrow": "Let's Work Together",
+    "heading": "Have a project in mind?",
+    "description": "I'm always open to discussing new opportunities, collaborations or just a quick chat."
+  },
+  "notFound": {
+    "title": "Project not found",
+    "message": "The project you're looking for doesn't exist or may have been moved.",
+    "backHome": "Back to Home"
+  }
+}

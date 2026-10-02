@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Farhad Eyvazov — Full-Stack Softwarový Inženýr",
+    "description": "Full-stack softwarový inženýr vytvářející moderní webové aplikace pomocí React, Java a Node.js."
+  },
+  "nav": {
+    "home": "Domů",
+    "stack": "Stack",
+    "projects": "Projekty",
+    "about": "O mně",
+    "experience": "Zkušenosti",
+    "education": "Vzdělání",
+    "contact": "Kontakt"
+  },
+  "ui": {
+    "downloadCV": "Stáhnout CV",
+    "linkedin": "LinkedIn",
+    "getInTouch": "Kontaktujte mě",
+    "themeToggleToLight": "Přepnout na světlý režim",
+    "themeToggleToDark": "Přepnout na tmavý režim",
+    "languageSwitcher": "Jazyk",
+    "menu": "Menu",
+    "closeMenu": "Zavřít menu"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Softwarový Inženýr",
+    "headline": "Vytvářím moderní webové aplikace pomocí <accent>React, Java a Node.js</accent>.",
+    "subtext": "Jsem full-stack vývojář, kterého baví přeměňovat nápady na škálovatelné, uživatelsky přívětivé webové aplikace. Zaměřuji se na čistý kód, moderní technologie a vytváření reálné hodnoty.",
+    "viewProjects": "Zobrazit Mé Projekty"
+  },
+  "about": {
+    "eyebrow": "O Mně",
+    "heading": "Kdo Jsem",
+    "paragraph1": "Jsem full-stack softwarový inženýr s vášní pro tvorbu moderních webových aplikací. Baví mě řešit složité problémy, pracovat se skvělými týmy a neustále se učit novým technologiím.",
+    "paragraph2": "Mám zkušenosti jak s frontendovým, tak backendovým vývojem a pohodlně pracuji s různými databázemi, API a cloudovými nástroji.",
+    "badgeProblemSolver": "Řeším Problémy",
+    "badgeTeamPlayer": "Týmový Hráč",
+    "badgeFastLearner": "Rychle Se Učím",
+    "imageAlt": "Pracovní stůl s monitorem zobrazujícím kód a hrnkem s nápisem \"Better Code Better Tomorrow\""
+  },
+  "techStack": {
+    "eyebrow": "Technologie",
+    "heading": "Můj Technologický Stack",
+    "alwaysLearning": "Stále se učím"
+  },
+  "projects": {
+    "eyebrow": "Vybrané Projekty",
+    "heading": "Mé Projekty",
+    "viewAllProjects": "Zobrazit Všechny Projekty",
+    "allProjectsHeading": "Všechny Projekty",
+    "tabFrontend": "Frontend",
+    "tabBackend": "Backend"
+  },
+  "projectDetail": {
+    "backToProjects": "Zpět na Projekty",
+    "overview": "Přehled Projektu",
+    "keyFeatures": "Klíčové Funkce",
+    "visitLiveSite": "Navštívit Živé Stránky",
+    "viewOnGithub": "Zobrazit na GitHubu"
+  },
+  "experience": {
+    "eyebrow": "Pracovní Zkušenosti",
+    "heading": "Odborné Zkušenosti"
+  },
+  "education": {
+    "eyebrow": "Vzdělání a Certifikace",
+    "educationHeading": "Vzdělání",
+    "certificationsHeading": "Certifikace"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "heading": "Spojme Se",
+    "description": "Neváhejte mě kontaktovat ohledně příležitostí, spolupráce nebo jen na pozdrav.",
+    "openToWork": "Jsem otevřený freelance práci, práci na plný úvazek a zajímavým projektům.",
+    "form": {
+      "nameLabel": "Jméno",
+      "namePlaceholder": "Vaše jméno",
+      "emailLabel": "Email",
+      "emailPlaceholder": "vy@priklad.cz",
+      "messageLabel": "Zpráva",
+      "messagePlaceholder": "Řekněte mi o svém projektu nebo příležitosti...",
+      "submit": "Odeslat Zprávu",
+      "sending": "Odesílání...",
+      "success": "Děkuji! Vaše zpráva byla odeslána — brzy se ozvu.",
+      "error": "Něco se pokazilo. Zkuste to prosím znovu nebo mi napište přímo."
+    }
+  },
+  "workTogether": {
+    "eyebrow": "Pojďme Spolupracovat",
+    "heading": "Máte na mysli projekt?",
+    "description": "Jsem vždy otevřený diskuzi o nových příležitostech, spolupráci nebo jen krátkému rozhovoru."
+  },
+  "notFound": {
+    "title": "Projekt nenalezen",
+    "message": "Projekt, který hledáte, neexistuje nebo mohl být přesunut.",
+    "backHome": "Zpět na Domovskou Stránku"
+  }
+}

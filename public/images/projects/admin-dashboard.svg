@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Admin Dashboard screenshot placeholder">
+  <rect width="640" height="400" fill="#0B1118" />
+  <rect x="0" y="0" width="640" height="36" fill="#0E151D" />
+  <circle cx="20" cy="18" r="5" fill="#18232E" />
+  <circle cx="38" cy="18" r="5" fill="#18232E" />
+  <circle cx="56" cy="18" r="5" fill="#18232E" />
+  <rect x="40" y="70" width="560" height="60" rx="6" fill="#0E151D" />
+  <rect x="60" y="90" width="120" height="20" rx="4" fill="#2F80ED" opacity="0.6" />
+  <rect x="200" y="90" width="120" height="20" rx="4" fill="#18232E" />
+  <rect x="340" y="90" width="120" height="20" rx="4" fill="#18232E" />
+  <rect x="40" y="150" width="270" height="180" rx="6" fill="#0E151D" />
+  <rect x="330" y="150" width="270" height="85" rx="6" fill="#0E151D" />
+  <rect x="330" y="245" width="270" height="85" rx="6" fill="#0E151D" />
+  <text x="320" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#9AA6B2">Admin Dashboard — screenshot coming soon</text>
+</svg>

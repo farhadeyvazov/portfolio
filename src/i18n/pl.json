@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "title": "Farhad Eyvazov — Full-Stack Inżynier Oprogramowania",
+    "description": "Full-stack inżynier oprogramowania tworzący nowoczesne aplikacje webowe w React, Java i Node.js."
+  },
+  "nav": {
+    "home": "Strona główna",
+    "stack": "Stack",
+    "projects": "Projekty",
+    "about": "O mnie",
+    "experience": "Doświadczenie",
+    "education": "Edukacja",
+    "contact": "Kontakt"
+  },
+  "ui": {
+    "downloadCV": "Pobierz CV",
+    "linkedin": "LinkedIn",
+    "getInTouch": "Skontaktuj się",
+    "themeToggleToLight": "Przełącz na tryb jasny",
+    "themeToggleToDark": "Przełącz na tryb ciemny",
+    "languageSwitcher": "Język",
+    "menu": "Menu",
+    "closeMenu": "Zamknij menu"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Inżynier Oprogramowania",
+    "headline": "Buduję nowoczesne aplikacje webowe w <accent>React, Java i Node.js</accent>.",
+    "subtext": "Jestem full-stack developerem, który z przyjemnością zamienia pomysły w skalowalne, przyjazne użytkownikowi aplikacje webowe. Skupiam się na czystym kodzie, nowoczesnych technologiach i tworzeniu realnej wartości.",
+    "viewProjects": "Zobacz Moje Projekty"
+  },
+  "about": {
+    "eyebrow": "O Mnie",
+    "heading": "Kim Jestem",
+    "paragraph1": "Jestem full-stack inżynierem oprogramowania z pasją do budowania nowoczesnych aplikacji webowych. Lubię rozwiązywać złożone problemy, pracować z świetnymi zespołami i nieustannie uczyć się nowych technologii.",
+    "paragraph2": "Mam doświadczenie zarówno w developmencie frontendowym, jak i backendowym, swobodnie pracuję z różnymi bazami danych, API i narzędziami chmurowymi.",
+    "badgeProblemSolver": "Rozwiązuję Problemy",
+    "badgeTeamPlayer": "Gracz Zespołowy",
+    "badgeFastLearner": "Szybko się Uczę",
+    "imageAlt": "Biurko z monitorem wyświetlającym kod i kubkiem z napisem \"Better Code Better Tomorrow\""
+  },
+  "techStack": {
+    "eyebrow": "Technologie",
+    "heading": "Mój Stack Technologiczny",
+    "alwaysLearning": "Zawsze się uczę"
+  },
+  "projects": {
+    "eyebrow": "Wyróżnione Projekty",
+    "heading": "Moje Projekty",
+    "viewAllProjects": "Zobacz Wszystkie Projekty",
+    "allProjectsHeading": "Wszystkie Projekty",
+    "tabFrontend": "Frontend",
+    "tabBackend": "Backend"
+  },
+  "projectDetail": {
+    "backToProjects": "Powrót do Projektów",
+    "overview": "Przegląd Projektu",
+    "keyFeatures": "Kluczowe Funkcje",
+    "visitLiveSite": "Zobacz na Żywo",
+    "viewOnGithub": "Zobacz na GitHub"
+  },
+  "experience": {
+    "eyebrow": "Kariera Zawodowa",
+    "heading": "Doświadczenie Zawodowe"
+  },
+  "education": {
+    "eyebrow": "Edukacja i Certyfikaty",
+    "educationHeading": "Edukacja",
+    "certificationsHeading": "Certyfikaty"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "heading": "Skontaktujmy się",
+    "description": "Śmiało napisz w sprawie możliwości, współpracy lub po prostu, żeby się przywitać.",
+    "openToWork": "Jestem otwarty na pracę freelance, pełny etat i ciekawe projekty.",
+    "form": {
+      "nameLabel": "Imię",
+      "namePlaceholder": "Twoje imię",
+      "emailLabel": "Email",
+      "emailPlaceholder": "ty@przyklad.com",
+      "messageLabel": "Wiadomość",
+      "messagePlaceholder": "Opowiedz mi o swoim projekcie lub propozycji...",
+      "submit": "Wyślij Wiadomość",
+      "sending": "Wysyłanie...",
+      "success": "Dziękuję! Twoja wiadomość została wysłana — wkrótce się odezwę.",
+      "error": "Coś poszło nie tak. Spróbuj ponownie lub napisz do mnie bezpośrednio."
+    }
+  },
+  "workTogether": {
+    "eyebrow": "Pracujmy Razem",
+    "heading": "Masz pomysł na projekt?",
+    "description": "Zawsze jestem otwarty na nowe możliwości, współpracę lub po prostu krótką rozmowę."
+  },
+  "notFound": {
+    "title": "Projekt nie znaleziony",
+    "message": "Projekt, którego szukasz, nie istnieje lub został przeniesiony.",
+    "backHome": "Powrót do Strony Głównej"
+  }
+}
