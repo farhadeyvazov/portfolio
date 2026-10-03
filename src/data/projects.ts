@@ -49,4 +49,18 @@ export const projects: Project[] = [
     githubUrl: null,
     category: 'frontend',
   },
+  {
+    slug: 'shopstore',
+    title: 'Shopstore',
+    description: 'E-commerce platform for Shopstore LLC.',
+    // PLACEHOLDER overview/features — real copy to be supplied after Stage 8.
+    overview: 'Frontend hissəsində React.js və Redux Toolkit, Məlumatların saxlanılması və idarə olunması üçün PostgreSQL ilə işləmişəm. Məlumatların saxlanılması və idarə olunması üçün PostgreSQL ilə işləmişəm.'
+    +"Saytın əsas səhifələri, məhsul bölmələri və istifadəçi funksionallarını hazırlamış, frontend və backend arasında API inteqrasiyasını qurmuşam. Eyni zamanda məhsulların və sayt məlumatlarının idarə olunması üçün ayrıca Admin Panel hazırlamışam.",
+    keyFeatures: ['Details to be supplied after Stage 8.'],
+    technologies: ['React.js', 'Node.js', 'Express.js', 'PostgreSQL'],
+    image: '/images/projects/shopstore.svg',
+    liveUrl: null,
+    githubUrl: "https://github.com/farhadeyvazov/Shopstore-MMC",
+    category: 'fullstack',
+  }
 ];
