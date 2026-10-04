@@ -60,7 +60,52 @@
   },
   "experience": {
     "eyebrow": "Töökogemus",
-    "heading": "Erialane Kogemus"
+    "heading": "Erialane Kogemus",
+    "items": [
+      {
+        "role": "Backend-arendaja",
+        "company": "Evo Academy",
+        "startDate": "11.2025",
+        "endDate": "02.2026",
+        "responsibilities": [
+          "Arendasin e-poe veebisaidi, kasutades HTML, CSS ja JavaScripti.",
+          "Töötasin SEO optimeerimise ja jõudluse parandamise kallal.",
+          "Haldasin admin-paneeli ja vastasin klientide päringutele."
+        ]
+      },
+      {
+        "role": "Frontend-arendaja",
+        "company": "Shopstore MMC",
+        "startDate": "03.2023",
+        "endDate": "05.2025",
+        "responsibilities": [
+          "Arendasin e-poe veebisaidi, kasutades HTML, CSS ja JavaScripti.",
+          "Töötasin SEO optimeerimise ja jõudluse parandamise kallal.",
+          "Haldasin admin-paneeli ja vastasin klientide päringutele."
+        ]
+      },
+      {
+        "role": "Frontend-arendaja",
+        "company": "Taskilled",
+        "startDate": "12.2021",
+        "endDate": "02.2022",
+        "responsibilities": [
+          "Osalesin frontend-arenduses React.js-iga.",
+          "Tegin meeskonnaga koostööd funktsioonide valmimiseks."
+        ]
+      },
+      {
+        "role": "Mentor React arendaja",
+        "company": "Coders Azerbaijan",
+        "startDate": "06.2021",
+        "endDate": "11.2021",
+        "responsibilities": [
+          "Töötasin Taskool.com (LMS-platvorm) kallal, kasutades React.js-i.",
+          "Tõin ja kuvasin andmeid igale sektsioonile kaartidel.",
+          "Järgisin Agile metoodikat ja haldasin ülesandeid Trello kaudu."
+        ]
+      }
+    ]
   },
   "education": {
     "eyebrow": "Haridus ja Sertifikaadid",

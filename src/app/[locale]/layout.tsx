@@ -11,6 +11,7 @@ import { profileConfig } from '@/data/profile';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { GoogleAnalytics } from '@/components/analytics/GoogleAnalytics';
+import { ThemeSync } from '@/components/ui/ThemeSync';
 import '@/styles/globals.css';
 
 const inter = Inter({
@@ -120,6 +121,7 @@ export default async function LocaleLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
         <GoogleAnalytics />
+        <ThemeSync />
         <NextIntlClientProvider>
           <Header />
           <div className="flex-1">{children}</div>

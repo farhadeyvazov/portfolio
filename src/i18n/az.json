@@ -60,7 +60,52 @@
   },
   "experience": {
     "eyebrow": "İş Təcrübəsi",
-    "heading": "Peşəkar Təcrübə"
+    "heading": "Peşəkar Təcrübə",
+    "items": [
+      {
+        "role": "Backend Developer",
+        "company": "Evo Academy",
+        "startDate": "11.2025",
+        "endDate": "02.2026",
+        "responsibilities": [
+          "HTML, CSS və JavaScript istifadə edərək e-ticarət veb-saytı hazırladım.",
+          "SEO optimizasiyası və performans yaxşılaşdırmaları üzərində işlədim.",
+          "Admin panelini idarə etdim və müştəri sorğularına cavab verdim."
+        ]
+      },
+      {
+        "role": "Frontend Developer",
+        "company": "Shopstore MMC",
+        "startDate": "03.2023",
+        "endDate": "05.2025",
+        "responsibilities": [
+          "HTML, CSS və JavaScript istifadə edərək e-ticarət veb-saytı hazırladım.",
+          "SEO optimizasiyası və performans yaxşılaşdırmaları üzərində işlədim.",
+          "Admin panelini idarə etdim və müştəri sorğularına cavab verdim."
+        ]
+      },
+      {
+        "role": "Frontend Developer",
+        "company": "Taskilled",
+        "startDate": "12.2021",
+        "endDate": "02.2022",
+        "responsibilities": [
+          "React.js ilə frontend developmentinə dəstək verdim.",
+          "Komanda ilə birlikdə funksionallıqların təqdim olunmasında əməkdaşlıq etdim."
+        ]
+      },
+      {
+        "role": "Mentor React Developer",
+        "company": "Coders Azerbaijan",
+        "startDate": "06.2021",
+        "endDate": "11.2021",
+        "responsibilities": [
+          "React.js istifadə edərək Taskool.com (LMS Platforması) üzərində işlədim.",
+          "Hər bölmə üçün məlumatları əldə edib kartlarda göstərdim.",
+          "Agile metodologiyasına əməl etdim və tapşırıqları Trello vasitəsilə idarə etdim."
+        ]
+      }
+    ]
   },
   "education": {
     "eyebrow": "Təhsil və Sertifikatlar",

@@ -20,7 +20,7 @@ export function Projects() {
   return (
     <section id="projects" className="border-border bg-surface border-t">
       <div className="mx-auto max-w-6xl px-6 py-16 md:py-24">
-        <div className="mb-10 flex flex-wrap items-center justify-between gap-4">
+        <div className="mb-10 flex flex-wrap items-center gap-4">
           <div>
             <p className="text-accent mb-2 text-sm font-medium">{t('eyebrow')}</p>
             <h2 className="text-text-primary text-3xl font-semibold">{t('heading')}</h2>

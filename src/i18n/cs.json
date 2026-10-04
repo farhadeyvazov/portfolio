@@ -60,7 +60,52 @@
   },
   "experience": {
     "eyebrow": "Pracovní Zkušenosti",
-    "heading": "Odborné Zkušenosti"
+    "heading": "Odborné Zkušenosti",
+    "items": [
+      {
+        "role": "Backend vývojář",
+        "company": "Evo Academy",
+        "startDate": "11.2025",
+        "endDate": "02.2026",
+        "responsibilities": [
+          "Vyvinul jsem e-shop s využitím HTML, CSS a JavaScriptu.",
+          "Pracoval jsem na SEO optimalizaci a zlepšení výkonu.",
+          "Správoval jsem administrační panel a odpovídal na dotazy klientů."
+        ]
+      },
+      {
+        "role": "Frontend vývojář",
+        "company": "Shopstore MMC",
+        "startDate": "03.2023",
+        "endDate": "05.2025",
+        "responsibilities": [
+          "Vyvinul jsem e-shop s využitím HTML, CSS a JavaScriptu.",
+          "Pracoval jsem na SEO optimalizaci a zlepšení výkonu.",
+          "Správoval jsem administrační panel a odpovídal na dotazy klientů."
+        ]
+      },
+      {
+        "role": "Frontend vývojář",
+        "company": "Taskilled",
+        "startDate": "12.2021",
+        "endDate": "02.2022",
+        "responsibilities": [
+          "Podílel jsem se na vývoji frontendu s React.js.",
+          "Spolupracoval jsem s týmem na dodávání funkcí."
+        ]
+      },
+      {
+        "role": "Mentor React vývojář",
+        "company": "Coders Azerbaijan",
+        "startDate": "06.2021",
+        "endDate": "11.2021",
+        "responsibilities": [
+          "Pracoval jsem na Taskool.com (LMS platforma) s využitím React.js.",
+          "Načítal a zobrazoval jsem data pro každou sekci v kartách.",
+          "Dodržoval jsem metodiku Agile a řídil úkoly přes Trello."
+        ]
+      }
+    ]
   },
   "education": {
     "eyebrow": "Vzdělání a Certifikace",
