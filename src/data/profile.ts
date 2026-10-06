@@ -5,12 +5,10 @@ export const profileConfig = {
   name: 'Farhad Eyvazov',
   phone: '+994 55 563 91 29',
   email: 'eyvazov.ferhad1997@gmail.com',
-  /** Swap this file once the real CV is ready (per Farhad: not ready yet). */
-  cvPath: '/cv-placeholder.pdf',
+  cvPath: '/Farhad_Eyvazov_Resume.pdf',
   linkedinUrl: 'https://linkedin.com/in/ferhadeyvazov',
   githubUrl: 'https://github.com/farhadeyvazov',
-  /** PLACEHOLDER — real portrait to be supplied. */
-  heroPortrait: '/images/hero-portrait-placeholder.svg',
+  heroPortrait: '/images/hero-portrait.jpg',
   /** Cropped from the Version 1 mockup, per Farhad — keep as-is, no redesign. */
   aboutWorkspacePhoto: '/images/about-workspace.jpg',
   /** Cropped from the Version 1 mockup, per Farhad — keep as-is, no redesign. */

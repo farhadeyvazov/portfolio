@@ -60,7 +60,52 @@
   },
   "experience": {
     "eyebrow": "İş Deneyimi",
-    "heading": "Profesyonel Deneyim"
+    "heading": "Profesyonel Deneyim",
+    "items": [
+      {
+        "role": "Backend Geliştirici",
+        "company": "Evo Academy",
+        "startDate": "11.2025",
+        "endDate": "02.2026",
+        "responsibilities": [
+          "Java ve Spring ekosistemi ile backend uygulamaları geliştirme üzerinde çalıştım.",
+          "Spring Boot, Hibernate ve Spring Data JPA kullanarak REST API'ler ve veritabanıyla ilgili özellikler geliştirdim.",
+          "API'leri test etmek için Swagger'ı, projeleri container ortamında çalıştırmak için Docker'ı kullandım."
+        ]
+      },
+      {
+        "role": "Full-Stack Geliştirici",
+        "company": "Shopstore MMC",
+        "startDate": "03.2023",
+        "endDate": "05.2025",
+        "responsibilities": [
+          "Şirketin e-ticaret sitesini sıfırdan tek başıma geliştirdim.",
+          "Frontend tarafında React.js ve Redux Toolkit, backend tarafında ise Node.js ve Express.js kullandım.",
+          "Ürünleri ve site içeriğini yönetmek için ayrı bir yönetim paneli geliştirdim."
+        ]
+      },
+      {
+        "role": "React Geliştirici",
+        "company": "Taskilled",
+        "startDate": "12.2021",
+        "endDate": "02.2022",
+        "responsibilities": [
+          "Taskool.com LMS platformunun geliştirilmesinde ekibin bir parçası oldum.",
+          "Farklı bölümler için backend'den veri çekme ve bunları kullanıcı arayüzünde gösterme üzerinde çalıştım.",
+          "Agile yaklaşımını ve Trello üzerinden görev takibini kullandım."
+        ]
+      },
+      {
+        "role": "Junior React Geliştirici",
+        "company": "Coders Azerbaijan",
+        "startDate": "06.2021",
+        "endDate": "11.2021",
+        "responsibilities": [
+          "React ve frontend geliştirme konusunda eğitim katılımcılarına pratik odaklı mentorluk yaptım.",
+          "React, JavaScript, bileşen yapısı ve API ile çalışma konularında teknik destek sağladım."
+        ]
+      }
+    ]
   },
   "education": {
     "eyebrow": "Eğitim ve Sertifikalar",

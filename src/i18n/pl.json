@@ -60,7 +60,52 @@
   },
   "experience": {
     "eyebrow": "Kariera Zawodowa",
-    "heading": "Doświadczenie Zawodowe"
+    "heading": "Doświadczenie Zawodowe",
+    "items": [
+      {
+        "role": "Backend Developer",
+        "company": "Evo Academy",
+        "startDate": "11.2025",
+        "endDate": "02.2026",
+        "responsibilities": [
+          "Pracowałem nad tworzeniem aplikacji backendowych przy użyciu Javy i ekosystemu Spring.",
+          "Budowałem REST API oraz funkcjonalności związane z bazą danych, korzystając ze Spring Boot, Hibernate i Spring Data JPA.",
+          "Używałem Swaggera do testowania API oraz Dockera do uruchamiania projektów w środowisku kontenerowym."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer",
+        "company": "Shopstore MMC",
+        "startDate": "03.2023",
+        "endDate": "05.2025",
+        "responsibilities": [
+          "Stworzyłem stronę e-commerce firmy od podstaw, samodzielnie.",
+          "Na frontendzie korzystałem z React.js i Redux Toolkit, a na backendzie z Node.js i Express.js.",
+          "Zbudowałem osobny panel administracyjny do zarządzania produktami i treścią strony."
+        ]
+      },
+      {
+        "role": "React Developer",
+        "company": "Taskilled",
+        "startDate": "12.2021",
+        "endDate": "02.2022",
+        "responsibilities": [
+          "Byłem częścią zespołu tworzącego platformę LMS Taskool.com.",
+          "Pracowałem nad pobieraniem danych z backendu dla różnych sekcji i wyświetlaniem ich w interfejsie użytkownika.",
+          "Stosowałem podejście Agile i śledziłem zadania za pomocą Trello."
+        ]
+      },
+      {
+        "role": "Junior React Developer",
+        "company": "Coders Azerbaijan",
+        "startDate": "06.2021",
+        "endDate": "11.2021",
+        "responsibilities": [
+          "Mentorowałem uczestników szkoleń z React i frontend developmentu w praktyczny sposób.",
+          "Zapewniałem wsparcie techniczne w zakresie React, JavaScript, struktury komponentów i pracy z API."
+        ]
+      }
+    ]
   },
   "education": {
     "eyebrow": "Edukacja i Certyfikaty",

@@ -60,7 +60,52 @@
   },
   "experience": {
     "eyebrow": "İş Təcrübəsi",
-    "heading": "Peşəkar Təcrübə"
+    "heading": "Peşəkar Təcrübə",
+    "items": [
+      {
+        "role": "Backend Developer",
+        "company": "Evo Academy",
+        "startDate": "11.2025",
+        "endDate": "02.2026",
+        "responsibilities": [
+          "Java və Spring ekosistemi ilə backend tətbiqlərinin hazırlanması üzərində çalışmışam.",
+          "Spring Boot, Hibernate və Spring Data JPA istifadə edərək REST API-lərin və database ilə əlaqəli funksionalların hazırlanmasında iştirak etmişəm.",
+          "API-ləri yoxlamaq üçün Swagger-dan, layihələrin container mühitində işlətmək üçün Docker-dan istifadə etmişəm."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer",
+        "company": "Shopstore MMC",
+        "startDate": "03.2023",
+        "endDate": "05.2025",
+        "responsibilities": [
+          "Şirkətin e-commerce saytını sıfırdan təkbaşına hazırlamışam.",
+          "Layihənin frontend hissəsində React.js və Redux Toolkit, backend hissəsində isə Node.js və Express.js istifadə etmişəm.",
+          "Məhsulların və sayt məlumatlarının idarə olunması üçün ayrıca admin panel hazırlamışam."
+        ]
+      },
+      {
+        "role": "React Developer",
+        "company": "Taskilled",
+        "startDate": "12.2021",
+        "endDate": "02.2022",
+        "responsibilities": [
+          "Taskool.com LMS platformasının yaradılmasında komandanın bir hissəsi olmuşam.",
+          "Müxtəlif bölmələr üçün backend-dən məlumatların alınması və istifadəçi interfeysində göstərilməsi üzərində çalışmışam.",
+          "Agile yanaşmasından və Trello vasitəsilə tapşırıqların izlənməsindən istifadə etmişəm."
+        ]
+      },
+      {
+        "role": "Junior React Developer",
+        "company": "Coders Azerbaijan",
+        "startDate": "06.2021",
+        "endDate": "11.2021",
+        "responsibilities": [
+          "React və frontend development üzrə təlim iştirakçılarına praktiki istiqamətdə mentorluq etmişəm.",
+          "React, JavaScript, komponent strukturu və API ilə işləmə mövzularında texniki dəstək göstərmişəm."
+        ]
+      }
+    ]
   },
   "education": {
     "eyebrow": "Təhsil və Sertifikatlar",

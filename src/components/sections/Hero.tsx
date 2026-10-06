@@ -42,7 +42,6 @@ export function Hero() {
             sizes="(min-width: 768px) 24rem, 80vw"
             className="object-cover"
             priority
-            unoptimized
           />
         </div>
       </div>

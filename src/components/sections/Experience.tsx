@@ -1,8 +1,13 @@
 import { useTranslations } from 'next-intl';
-import { experience } from '@/data/experience';
+import type { ExperienceEntry } from '@/data/types';
 
 export function Experience() {
   const t = useTranslations('experience');
+  // Role/company/dates/responsibilities are translated per locale (see the
+  // `experience.items` key in each src/i18n/<locale>.json file) rather than
+  // pulled from a single English-only data file, so this content actually
+  // changes when the visitor switches language.
+  const experience = t.raw('items') as ExperienceEntry[];
 
   return (
     <section id="experience" className="border-border border-t">

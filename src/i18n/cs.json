@@ -60,7 +60,52 @@
   },
   "experience": {
     "eyebrow": "Pracovní Zkušenosti",
-    "heading": "Odborné Zkušenosti"
+    "heading": "Odborné Zkušenosti",
+    "items": [
+      {
+        "role": "Backend vývojář",
+        "company": "Evo Academy",
+        "startDate": "11.2025",
+        "endDate": "02.2026",
+        "responsibilities": [
+          "Pracoval jsem na vývoji backendových aplikací s využitím Javy a ekosystému Spring.",
+          "Vyvíjel jsem REST API a funkce související s databází pomocí Spring Boot, Hibernate a Spring Data JPA.",
+          "Používal jsem Swagger k testování API a Docker ke spouštění projektů v kontejnerovém prostředí."
+        ]
+      },
+      {
+        "role": "Full-Stack vývojář",
+        "company": "Shopstore MMC",
+        "startDate": "03.2023",
+        "endDate": "05.2025",
+        "responsibilities": [
+          "Samostatně jsem od nuly vyvinul e-shop společnosti.",
+          "Na frontendu jsem používal React.js a Redux Toolkit, na backendu Node.js a Express.js.",
+          "Vytvořil jsem samostatný administrační panel pro správu produktů a obsahu webu."
+        ]
+      },
+      {
+        "role": "React vývojář",
+        "company": "Taskilled",
+        "startDate": "12.2021",
+        "endDate": "02.2022",
+        "responsibilities": [
+          "Byl jsem součástí týmu, který vytvářel LMS platformu Taskool.com.",
+          "Pracoval jsem na načítání dat z backendu pro různé sekce a jejich zobrazování v uživatelském rozhraní.",
+          "Používal jsem přístup Agile a sledoval úkoly přes Trello."
+        ]
+      },
+      {
+        "role": "Junior React vývojář",
+        "company": "Coders Azerbaijan",
+        "startDate": "06.2021",
+        "endDate": "11.2021",
+        "responsibilities": [
+          "Mentoroval jsem účastníky školení v oblasti React a frontend developmentu praktickým způsobem.",
+          "Poskytoval jsem technickou podporu v oblasti React, JavaScript, struktury komponent a práce s API."
+        ]
+      }
+    ]
   },
   "education": {
     "eyebrow": "Vzdělání a Certifikace",

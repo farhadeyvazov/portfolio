@@ -17,8 +17,8 @@ export const projects: Project[] = [
     technologies: ['React.js', 'TypeScript', 'RTK', 'Styled-components'],
     image: '/images/projects/taskool.svg',
     // PLACEHOLDER — not confirmed yet, follow up after Stage 8.
-    liveUrl: null,
-    githubUrl: null,
+    liveUrl: 'https://taskool.com',
+    githubUrl: 'https://github.com/farhadeyvazov/Taskool-My-Courses',
     category: 'frontend',
   },
   {
@@ -45,8 +45,8 @@ export const projects: Project[] = [
     keyFeatures: ['Details to be supplied after Stage 8.'],
     technologies: ['HTML', 'Bootstrap', 'JavaScript'],
     image: '/images/projects/bizimyol.svg',
-    liveUrl: null,
-    githubUrl: null,
+    liveUrl: 'https://bizimyol.netlify.app/',
+    githubUrl: 'https://github.com/farhadeyvazov/Bizimyol-News.git',
     category: 'frontend',
   },
   {
@@ -56,10 +56,10 @@ export const projects: Project[] = [
     // PLACEHOLDER overview/features — real copy to be supplied after Stage 8.
     overview: 'Frontend hissəsində React.js və Redux Toolkit, Məlumatların saxlanılması və idarə olunması üçün PostgreSQL ilə işləmişəm. Məlumatların saxlanılması və idarə olunması üçün PostgreSQL ilə işləmişəm.'
     +"Saytın əsas səhifələri, məhsul bölmələri və istifadəçi funksionallarını hazırlamış, frontend və backend arasında API inteqrasiyasını qurmuşam. Eyni zamanda məhsulların və sayt məlumatlarının idarə olunması üçün ayrıca Admin Panel hazırlamışam.",
-    keyFeatures: ['Details to be supplied after Stage 8.'],
+    keyFeatures: ['Modern and responsive UI'],
     technologies: ['React.js', 'Node.js', 'Express.js', 'PostgreSQL'],
     image: '/images/projects/shopstore.svg',
-    liveUrl: null,
+    liveUrl: 'https://shopstore.az',
     githubUrl: "https://github.com/farhadeyvazov/Shopstore-MMC",
     category: 'fullstack',
   }

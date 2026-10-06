@@ -60,7 +60,52 @@
   },
   "experience": {
     "eyebrow": "Work Experience",
-    "heading": "Professional Experience"
+    "heading": "Professional Experience",
+    "items": [
+      {
+        "role": "Backend Developer",
+        "company": "Evo Academy",
+        "startDate": "11.2025",
+        "endDate": "02.2026",
+        "responsibilities": [
+          "Worked on developing backend applications using Java and the Spring ecosystem.",
+          "Built REST APIs and database-related features using Spring Boot, Hibernate, and Spring Data JPA.",
+          "Used Swagger to test APIs and Docker to run projects in containerized environments."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer",
+        "company": "Shopstore MMC",
+        "startDate": "03.2023",
+        "endDate": "05.2025",
+        "responsibilities": [
+          "Built the company's e-commerce website from scratch, single-handedly.",
+          "Used React.js and Redux Toolkit on the frontend, and Node.js and Express.js on the backend.",
+          "Built a separate admin panel to manage products and site content."
+        ]
+      },
+      {
+        "role": "React Developer",
+        "company": "Taskilled",
+        "startDate": "12.2021",
+        "endDate": "02.2022",
+        "responsibilities": [
+          "Was part of the team building the Taskool.com LMS platform.",
+          "Worked on fetching data from the backend for various sections and displaying it in the UI.",
+          "Used the Agile approach and tracked tasks via Trello."
+        ]
+      },
+      {
+        "role": "Junior React Developer",
+        "company": "Coders Azerbaijan",
+        "startDate": "06.2021",
+        "endDate": "11.2021",
+        "responsibilities": [
+          "Mentored trainees in React and frontend development with a hands-on approach.",
+          "Provided technical support on React, JavaScript, component structure, and working with APIs."
+        ]
+      }
+    ]
   },
   "education": {
     "eyebrow": "Education & Certifications",
