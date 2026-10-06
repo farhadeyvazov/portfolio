@@ -68,41 +68,41 @@
         "startDate": "11.2025",
         "endDate": "02.2026",
         "responsibilities": [
-          "Arendasin e-poe veebisaidi, kasutades HTML, CSS ja JavaScripti.",
-          "Töötasin SEO optimeerimise ja jõudluse parandamise kallal.",
-          "Haldasin admin-paneeli ja vastasin klientide päringutele."
+          "Töötasin backend-rakenduste arendamisega, kasutades Java't ja Springi ökosüsteemi.",
+          "Arendasin REST API-sid ja andmebaasiga seotud funktsioone, kasutades Spring Booti, Hibernate'i ja Spring Data JPA-d.",
+          "Kasutasin Swaggerit API-de testimiseks ja Dockerit projektide käitamiseks konteinerkeskkonnas."
         ]
       },
       {
-        "role": "Frontend-arendaja",
+        "role": "Full-Stack arendaja",
         "company": "Shopstore MMC",
         "startDate": "03.2023",
         "endDate": "05.2025",
         "responsibilities": [
-          "Arendasin e-poe veebisaidi, kasutades HTML, CSS ja JavaScripti.",
-          "Töötasin SEO optimeerimise ja jõudluse parandamise kallal.",
-          "Haldasin admin-paneeli ja vastasin klientide päringutele."
+          "Arendasin ettevõtte e-poe veebisaidi algusest peale iseseisvalt.",
+          "Frontendis kasutasin React.js-i ja Redux Toolkit'i, backendis aga Node.js-i ja Express.js-i.",
+          "Lõin eraldi admin-paneeli toodete ja saidi sisu haldamiseks."
         ]
       },
       {
-        "role": "Frontend-arendaja",
+        "role": "React-arendaja",
         "company": "Taskilled",
         "startDate": "12.2021",
         "endDate": "02.2022",
         "responsibilities": [
-          "Osalesin frontend-arenduses React.js-iga.",
-          "Tegin meeskonnaga koostööd funktsioonide valmimiseks."
+          "Olin meeskonna liige, kes lõi Taskool.com LMS-platvormi.",
+          "Töötasin erinevate sektsioonide jaoks andmete toomisega backendist ja nende kuvamisega kasutajaliideses.",
+          "Kasutasin Agile lähenemist ja jälgisin ülesandeid Trello kaudu."
         ]
       },
       {
-        "role": "Mentor React arendaja",
+        "role": "Juunior React arendaja",
         "company": "Coders Azerbaijan",
         "startDate": "06.2021",
         "endDate": "11.2021",
         "responsibilities": [
-          "Töötasin Taskool.com (LMS-platvorm) kallal, kasutades React.js-i.",
-          "Tõin ja kuvasin andmeid igale sektsioonile kaartidel.",
-          "Järgisin Agile metoodikat ja haldasin ülesandeid Trello kaudu."
+          "Juhendasin koolituse osalejaid React ja frontend-arenduse vallas praktilisel viisil.",
+          "Pakkusin tehnilist tuge React, JavaScript, komponentide struktuuri ja API-dega töötamise teemadel."
         ]
       }
     ]

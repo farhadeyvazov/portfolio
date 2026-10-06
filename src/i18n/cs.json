@@ -68,41 +68,41 @@
         "startDate": "11.2025",
         "endDate": "02.2026",
         "responsibilities": [
-          "Vyvinul jsem e-shop s využitím HTML, CSS a JavaScriptu.",
-          "Pracoval jsem na SEO optimalizaci a zlepšení výkonu.",
-          "Správoval jsem administrační panel a odpovídal na dotazy klientů."
+          "Pracoval jsem na vývoji backendových aplikací s využitím Javy a ekosystému Spring.",
+          "Vyvíjel jsem REST API a funkce související s databází pomocí Spring Boot, Hibernate a Spring Data JPA.",
+          "Používal jsem Swagger k testování API a Docker ke spouštění projektů v kontejnerovém prostředí."
         ]
       },
       {
-        "role": "Frontend vývojář",
+        "role": "Full-Stack vývojář",
         "company": "Shopstore MMC",
         "startDate": "03.2023",
         "endDate": "05.2025",
         "responsibilities": [
-          "Vyvinul jsem e-shop s využitím HTML, CSS a JavaScriptu.",
-          "Pracoval jsem na SEO optimalizaci a zlepšení výkonu.",
-          "Správoval jsem administrační panel a odpovídal na dotazy klientů."
+          "Samostatně jsem od nuly vyvinul e-shop společnosti.",
+          "Na frontendu jsem používal React.js a Redux Toolkit, na backendu Node.js a Express.js.",
+          "Vytvořil jsem samostatný administrační panel pro správu produktů a obsahu webu."
         ]
       },
       {
-        "role": "Frontend vývojář",
+        "role": "React vývojář",
         "company": "Taskilled",
         "startDate": "12.2021",
         "endDate": "02.2022",
         "responsibilities": [
-          "Podílel jsem se na vývoji frontendu s React.js.",
-          "Spolupracoval jsem s týmem na dodávání funkcí."
+          "Byl jsem součástí týmu, který vytvářel LMS platformu Taskool.com.",
+          "Pracoval jsem na načítání dat z backendu pro různé sekce a jejich zobrazování v uživatelském rozhraní.",
+          "Používal jsem přístup Agile a sledoval úkoly přes Trello."
         ]
       },
       {
-        "role": "Mentor React vývojář",
+        "role": "Junior React vývojář",
         "company": "Coders Azerbaijan",
         "startDate": "06.2021",
         "endDate": "11.2021",
         "responsibilities": [
-          "Pracoval jsem na Taskool.com (LMS platforma) s využitím React.js.",
-          "Načítal a zobrazoval jsem data pro každou sekci v kartách.",
-          "Dodržoval jsem metodiku Agile a řídil úkoly přes Trello."
+          "Mentoroval jsem účastníky školení v oblasti React a frontend developmentu praktickým způsobem.",
+          "Poskytoval jsem technickou podporu v oblasti React, JavaScript, struktury komponent a práce s API."
         ]
       }
     ]

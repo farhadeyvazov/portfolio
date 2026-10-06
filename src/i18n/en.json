@@ -68,41 +68,41 @@
         "startDate": "11.2025",
         "endDate": "02.2026",
         "responsibilities": [
-          "Developed an e-commerce website using HTML, CSS and JavaScript.",
-          "Worked on SEO optimization and performance improvements.",
-          "Managed the admin panel and responded to customer inquiries."
+          "Worked on developing backend applications using Java and the Spring ecosystem.",
+          "Built REST APIs and database-related features using Spring Boot, Hibernate, and Spring Data JPA.",
+          "Used Swagger to test APIs and Docker to run projects in containerized environments."
         ]
       },
       {
-        "role": "Frontend Developer",
+        "role": "Full-Stack Developer",
         "company": "Shopstore MMC",
         "startDate": "03.2023",
         "endDate": "05.2025",
         "responsibilities": [
-          "Developed an e-commerce website using HTML, CSS and JavaScript.",
-          "Worked on SEO optimization and performance improvements.",
-          "Managed the admin panel and responded to customer inquiries."
+          "Built the company's e-commerce website from scratch, single-handedly.",
+          "Used React.js and Redux Toolkit on the frontend, and Node.js and Express.js on the backend.",
+          "Built a separate admin panel to manage products and site content."
         ]
       },
       {
-        "role": "Frontend Developer",
+        "role": "React Developer",
         "company": "Taskilled",
         "startDate": "12.2021",
         "endDate": "02.2022",
         "responsibilities": [
-          "Contributed to frontend development with React.js.",
-          "Collaborated with the team to deliver features."
+          "Was part of the team building the Taskool.com LMS platform.",
+          "Worked on fetching data from the backend for various sections and displaying it in the UI.",
+          "Used the Agile approach and tracked tasks via Trello."
         ]
       },
       {
-        "role": "Mentor React Developer",
+        "role": "Junior React Developer",
         "company": "Coders Azerbaijan",
         "startDate": "06.2021",
         "endDate": "11.2021",
         "responsibilities": [
-          "Worked on Taskool.com (LMS Platform) using React.js.",
-          "Fetched and displayed data for each section in cards.",
-          "Followed Agile methodology and managed tasks via Trello."
+          "Mentored trainees in React and frontend development with a hands-on approach.",
+          "Provided technical support on React, JavaScript, component structure, and working with APIs."
         ]
       }
     ]

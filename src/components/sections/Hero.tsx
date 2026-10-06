@@ -33,7 +33,7 @@ export function Hero() {
         <SocialLinks className="mt-8" />
       </div>
 
-      <div className="order-first md:order-last">
+      <div className="order-first">
         <div className="border-border relative mx-auto aspect-6/7 w-full max-w-sm overflow-hidden rounded-2xl border">
           <Image
             src={profileConfig.heroPortrait}
@@ -42,7 +42,6 @@ export function Hero() {
             sizes="(min-width: 768px) 24rem, 80vw"
             className="object-cover"
             priority
-            unoptimized
           />
         </div>
       </div>

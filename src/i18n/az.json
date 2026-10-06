@@ -68,41 +68,41 @@
         "startDate": "11.2025",
         "endDate": "02.2026",
         "responsibilities": [
-          "HTML, CSS və JavaScript istifadə edərək e-ticarət veb-saytı hazırladım.",
-          "SEO optimizasiyası və performans yaxşılaşdırmaları üzərində işlədim.",
-          "Admin panelini idarə etdim və müştəri sorğularına cavab verdim."
+          "Java və Spring ekosistemi ilə backend tətbiqlərinin hazırlanması üzərində çalışmışam.",
+          "Spring Boot, Hibernate və Spring Data JPA istifadə edərək REST API-lərin və database ilə əlaqəli funksionalların hazırlanmasında iştirak etmişəm.",
+          "API-ləri yoxlamaq üçün Swagger-dan, layihələrin container mühitində işlətmək üçün Docker-dan istifadə etmişəm."
         ]
       },
       {
-        "role": "Frontend Developer",
+        "role": "Full-Stack Developer",
         "company": "Shopstore MMC",
         "startDate": "03.2023",
         "endDate": "05.2025",
         "responsibilities": [
-          "HTML, CSS və JavaScript istifadə edərək e-ticarət veb-saytı hazırladım.",
-          "SEO optimizasiyası və performans yaxşılaşdırmaları üzərində işlədim.",
-          "Admin panelini idarə etdim və müştəri sorğularına cavab verdim."
+          "Şirkətin e-commerce saytını sıfırdan təkbaşına hazırlamışam.",
+          "Layihənin frontend hissəsində React.js və Redux Toolkit, backend hissəsində isə Node.js və Express.js istifadə etmişəm.",
+          "Məhsulların və sayt məlumatlarının idarə olunması üçün ayrıca admin panel hazırlamışam."
         ]
       },
       {
-        "role": "Frontend Developer",
+        "role": "React Developer",
         "company": "Taskilled",
         "startDate": "12.2021",
         "endDate": "02.2022",
         "responsibilities": [
-          "React.js ilə frontend developmentinə dəstək verdim.",
-          "Komanda ilə birlikdə funksionallıqların təqdim olunmasında əməkdaşlıq etdim."
+          "Taskool.com LMS platformasının yaradılmasında komandanın bir hissəsi olmuşam.",
+          "Müxtəlif bölmələr üçün backend-dən məlumatların alınması və istifadəçi interfeysində göstərilməsi üzərində çalışmışam.",
+          "Agile yanaşmasından və Trello vasitəsilə tapşırıqların izlənməsindən istifadə etmişəm."
         ]
       },
       {
-        "role": "Mentor React Developer",
+        "role": "Junior React Developer",
         "company": "Coders Azerbaijan",
         "startDate": "06.2021",
         "endDate": "11.2021",
         "responsibilities": [
-          "React.js istifadə edərək Taskool.com (LMS Platforması) üzərində işlədim.",
-          "Hər bölmə üçün məlumatları əldə edib kartlarda göstərdim.",
-          "Agile metodologiyasına əməl etdim və tapşırıqları Trello vasitəsilə idarə etdim."
+          "React və frontend development üzrə təlim iştirakçılarına praktiki istiqamətdə mentorluq etmişəm.",
+          "React, JavaScript, komponent strukturu və API ilə işləmə mövzularında texniki dəstək göstərmişəm."
         ]
       }
     ]
