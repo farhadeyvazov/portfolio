@@ -4,6 +4,7 @@ import { hasLocale, NextIntlClientProvider } from 'next-intl';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { Inter } from 'next/font/google';
 import Script from 'next/script';
+import { Analytics } from "@vercel/analytics/next"
 import { routing } from '@/i18n/routing';
 import { themeInitScript } from '@/lib/theme';
 import { SITE_URL, localizedUrl, buildLanguageAlternates, OG_LOCALE_MAP } from '@/lib/site';
@@ -127,6 +128,7 @@ export default async function LocaleLayout({
           <div className="flex-1">{children}</div>
           <Footer />
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );

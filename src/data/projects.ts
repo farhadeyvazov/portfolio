@@ -46,7 +46,7 @@ export const projects: Project[] = [
     technologies: ['HTML', 'Bootstrap', 'JavaScript'],
     image: '/images/projects/bizimyol.svg',
     liveUrl: 'https://bizimyol.netlify.app/',
-    githubUrl: null,
+    githubUrl: 'https://github.com/farhadeyvazov/Bizimyol-News.git',
     category: 'frontend',
   },
   {
